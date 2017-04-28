@@ -20,3 +20,4 @@ This is an attempt to prepare myself for my experimental statistics 1 final. Sin
 
 ## Other
 * [LaTeX examples](LaTeX_examples.ipynb)
+* [flashcards](https://www.coursehero.com/flashcards/449901/Stats-python/)
