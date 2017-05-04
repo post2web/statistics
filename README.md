@@ -15,8 +15,9 @@ This is an attempt to prepare myself for my experimental statistics 1 final. Sin
 * [2 groups testing](2_group_testing.ipynb)
 * [power](power.ipynb)
 * [3_or_more_groups_testing](3_or_more_groups_testing.ipynb)
-* [ordinary linear regression.ipynb](ordinary_linear_regression.ipynb)
-* [GLM](GLM.ipynb)
+* [permutation test](permutation_test.ipynb)
+* [linear regression](linear_regression.ipynb)
+* [Cross-validation](cross-validation.ipynb)
 
 ## Other
 * [LaTeX examples](LaTeX_examples.ipynb)
