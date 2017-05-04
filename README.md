@@ -1,10 +1,10 @@
 # A collection of python statistics notebooks
 
-This is an attempt to prepare myself for my experimental statistics 1 final. Since the python is my language of choice I am translating everything we learn from SAS to python.
+These is a collection of jupyter notebooks I used to prepare myself for my experimental statistics 1 final. Since python is my language of choice I am translating everything we learn from SAS to python.
 
 ## Goals for this project
 * Keep it basic and simple
-* Easy to reproducible code in cheat-sheet style and only basic notes
+* Easy to reproducible code in cheat-sheet style notebooks
 * All examples and charts should be viewable directly from github
 
 ## Notebooks
