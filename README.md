@@ -1,6 +1,6 @@
 # A collection of python statistics notebooks
 
-These is a collection of jupyter notebooks I used to prepare myself for my experimental statistics 1 final. Since python is my language of choice I am translating everything we learn from SAS to python.
+This is a collection of jupyter notebooks I used to prepare myself for my experimental statistics 1 final. Since python is my language of choice I am translating everything we learn from SAS to python.
 
 ## Goals for this project
 * Keep it basic and simple
