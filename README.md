@@ -22,3 +22,5 @@ This is a collection of jupyter notebooks I used to prepare myself for my experi
 ## Other
 * [LaTeX examples](LaTeX_examples.ipynb)
 * [flashcards](https://www.coursehero.com/flashcards/449901/Stats-python/)
+
+.
